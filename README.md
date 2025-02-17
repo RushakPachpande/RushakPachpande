@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center" style="color:rgb(10, 120, 255); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 45px;">RUSHAK PACHPANDE</h1>
 
-  <p align="center" style="color:rgb(200, 255, 50); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 30px;"><strong>Java Developer</strong></p>
+  <h2 align="center" style="color:rgb(200, 255, 50); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 30px;"><strong>Java Developer</strong></h2>
   
   <a href="mailto:rushakgp06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Mail-lightgray?logo=gmail&style=for-the-badge" alt="Email" />
