@@ -1,81 +1,126 @@
-<div align="center">
-  <h1 align="center" style="color:rgb(10, 120, 255); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 45px;">RUSHAK PACHPANDE</h1>
-
-  <h2 align="center" style="color:rgb(200, 255, 50); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 30px;"><strong>Java Developer</strong></h2>
-  
-  <a href="mailto:rushakgp06@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Mail-lightgray?logo=gmail&style=for-the-badge" alt="Email" />
-  </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/rushak-pachpande/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RushakPachpande" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<p style="font-size: 16px;">
-I am an enthusiastic and motivated individual with a strong foundation in Java Programming. I also have skills with front-end technologies like HTML, CSS, JavaScript, and have some basic knowledge about Spring Boot, and RESTful APIs. I am eager to learn and apply my skills and grow further in a dynamic internship position. My problem-solving abilities, passion for coding, and commitment to learning make me an ideal candidate for this opportunity. I look forward to contributing to the team and gaining valuable experience in full-stack development.
-</p>
-
----
-
-<h3 align="center" style="color:rgba(255, 183, 0, 0.8); font-size: 26px;"><u>TECHNICAL SKILLS:</u>
-</h3>
 <p align="center">
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" height="30" />
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" style="margin-left: 7px;"/>
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <br />
-  <!-- MS Office -->
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- MS Word -->
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- MS Excel -->
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" style="margin-left: 7px;"/>
-  <!-- MS PowerPoint -->
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" height="30" style="margin-left: 7px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:0a78ff,100:00f7ff&height=180&section=header&text=Rushak%20Pachpande&fontSize=70&fontAlignY=45&animation=scaleIn&fontColor=fff" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&center=true&random=true&width=700&lines=Platform+Engineer;Full+Stack+Developer;Cloud+%26+Automation;Building+Real-World+Systems" />
 </p>
 
----
-
-
-<h3 align="center" style="color:rgba(0, 255, 234, 0.8); font-size: 26px;"><u>GITHUB STATS:</u></h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushakPachpande&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="mailto:rushakgp06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mail-yellow?logo=gmail&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/rushak-pachpande/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://github.com/RushakPachpande">
+    <img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github&style=for-the-badge" />
+  </a>
 </div>
 
----
-<h3 align="center" style="color:rgba(0, 255, 119, 0.8); font-size: 26px;"><u>TOP LANGUAGES:</u></h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushakPachpande&langs_count=10&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+## 👨‍💻 About Me
 
----
-<h3 align="center" style="color:rgba(255, 0, 0, 0.75); font-size: 35px;"><u>Certifications</u></h3>
+I am a **Platform Engineer and Full-Stack Developer** with hands-on experience in building, deploying, and managing real-world systems.
+
+I work across **backend development, cloud infrastructure, and automation**, where I design scalable systems and solve operational challenges.
+
+- 🔧 Built **Navdrishti (Student Management System)** using Supabase
+- ☁️ Managing **Azure cloud infrastructure & virtual machines**
+- ⚙️ Automating workflows using **n8n (self-hosted)**
+- 🧠 Handling **end-to-end systems** (development → deployment → maintenance)
+
+I enjoy solving real-world problems and continuously improving systems for efficiency and scalability.
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Java%20Plus-brightgreen?style=flat&logo=java" alt="Full Stack Developer Badge" />
-  <img src="https://img.shields.io/badge/Hewlett%20Packard%20Enterprise%20Software%20Engineering%20Job%20Simulation-Forage-blue?style=flat&logo=java" alt="Hewlett Packard Enterprise Software Engineering Job Simulation Badge" />
-  <img src="https://img.shields.io/badge/Wells%20Fargo%20Software%20Engineering%20Job%20Simulation-Forage-orange?style=flat&logo=java" alt="Wells Fargo Software Engineering Job Simulation Badge" />
-</div>
+## 🛠️ Technical Skills
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>&nbsp;
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
+
+
+## 🚀 Projects & Work
+### 🔹 Navdrishti – Student Management System
+- Independently designed, developed, and deployed the system end-to-end
+- Built on Supabase (backend APIs, authentication, PostgreSQL database, and S3-compatible storage)
+- Designed scalable backend architecture and workflows
+- Deployed and managed production environment, including staging and live systems
+- Implemented automated notifications for new position additions to keep users updated in real-time
+- Accelerated development using AI-assisted (vibe coding)
+- Focused on real-world usability and system reliability
+- Phase 2 in progress, focusing on feature expansion and system improvements
+
+- 🔗 Staging: <a href="https://qa.asmnvdi.com" target="_blank">qa.asmnvdi.com</a>  
+- 🌐 Live: <a href="https://www.asmnvdi.com" target="_blank">www.asmnvdi.com</a>
+
+### 🔹 LCCIA Digital Calendar – Prototype
+- Developed a digital calendar solution prototype for organizational use
+- Focused on event management, scheduling, and centralized visibility
+- Designed for real-world usability with a clean and accessible interface
+- Rapidly prototyped using AI-assisted (vibe coding) approach for faster development
+- 🌐 Live: <a href="https://lccia.nextgeninnov8.net" target="_blank">lccia.nextgeninnov8.net</a>
+
+**⚡ Focused on building real-world systems, internal tools, and rapid prototypes to solve practical problems.**
+
+
+## 💼 Experience
+
+#### 🔹 Automation & Infrastructure
+
+- Deployed and managed **n8n** on Azure (Web App/VM), including setup, configuration, and maintenance
+- Reduced manual operations
+
+#### 🔹 IT Operations & System Management
+
+- Managed O365, Zoho accounts, internal tools
+- Handled troubleshooting & vendor coordination
+- Maintained centralized systems
+
+
+## 🎓 Certifications
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Developer-Java%20Plus-brightgreen?style=flat&logo=java)
+![HPE](https://img.shields.io/badge/Hewlett%20Packard%20Enterprise-Software%20Engineering-blue?style=flat)
+![Wells Fargo](https://img.shields.io/badge/Wells%20Fargo-Software%20Engineering-orange?style=flat)
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable backend systems
+- ☁️ Advancing in Cloud & DevOps practices
+- ⚙️ Automation & workflows
+- 🧠 Real-world problem solving
+
+
+## 🤖 How I Use AI in Development
+
+I actively leverage **AI-assisted development (vibe coding)** to enhance productivity, accelerate iteration, and improve problem-solving.
+
+- ⚡ Rapid prototyping of features and systems
+- 🧩 Breaking down complex problems into implementable steps
+- 🔍 Debugging and exploring multiple solution approaches quickly
+- 🏗️ Designing backend structures and workflows efficiently
+- 🔄 Iterating faster while maintaining system-level understanding
+
+I use AI as a **development accelerator, not a replacement**, ensuring strong fundamentals, clean architecture, and full ownership of the systems I build.
+
+
+## 📌 Goal
+
+To become a **highly skilled Platform Engineer** capable of owning complete systems end-to-end — transforming ideas into scalable solutions through prototyping, development, deployment, and continuous improvement.
